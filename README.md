@@ -1,7 +1,7 @@
 
 # Rvisuals: A Comprehensive R-based Data Visualization Repository
 
-**Rvisuals** is a carefully curated collection of R scripts designed to create publication-ready visualizations effortlessly. Ideal for data scientists, researchers, analysts, and students, Rvisuals delivers reproducible, insightful, and visually compelling graphics for robust data analysis.
+**Rvisuals** is a personal collection of R scripts that I have developed for generating publication-ready visualizations. Designed for data scientists, researchers, and analysts, these scripts offer reproducible and insightful visual representations of data for analysis and reporting..
 
 ---
 
