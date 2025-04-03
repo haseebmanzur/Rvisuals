@@ -40,8 +40,6 @@ Follow these simple steps to create visualizations:
 -  **Correlation Heatmap**: Identify and showcase correlations clearly and succinctly.
 -  **Association Boxplots**: Highlight relationships between categorical variables and continuous outcomes.
 
-*(Make sure to include actual visual examples in your repository!)*
-
 ---
 
 ## Contributing
