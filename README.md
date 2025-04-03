@@ -48,6 +48,7 @@ Follow these simple steps to create visualizations:
   
 -  **Association Boxplots**: Highlight relationships between categorical variables and continuous outcomes.
   <img src="Examples/Boxplots.PNG" width="600"/>
+  
 ---
 
 ## Contributing
