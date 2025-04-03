@@ -35,13 +35,13 @@ Follow these simple steps to create visualizations:
 ## Visualization Examples
 
 -  **Raincloud Plot**: Effectively visualize distributions with combined density, boxplots, and scatter plots.
-  ![Raincloud Plot](Examples/Raincloud.PNG)
+  <img src="Examples/Raincloud.PNG" width="600"/>
 -  **Violin Plot**: Clearly display data distributions and statistical summaries.
-  ![Violin Plot](Examples/Violin.PNG)
+ <img src="Examples/Violin.PNG" width="600"/>
 -  **Heatmap**: Intuitive visualization of matrix data for rapid insights.
-  ![Heatmap](Examples/Heatmap.PNG)
+  <img src="Examples/Heatmap.PNG" width="600"/>
 -  **Correlation Heatmap**: Identify and showcase correlations clearly and succinctly.
-  ![Correlation Heatmap](Examples/Correlation.PNG)
+  <img src="Examples/Correlation.PNG" width="600"/>
 -  **Association Boxplots**: Highlight relationships between categorical variables and continuous outcomes.
   <img src="Examples/Boxplots.PNG" width="600"/>
 ---
